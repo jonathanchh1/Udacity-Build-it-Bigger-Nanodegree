@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="interstitial_code">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="mobileAd">ca-app-pub-3940256099942544~3347511713</string>
+</resources>
